@@ -1,10 +1,6 @@
-function divide () {
-    divide = 2000 / 100
-    return divide
-}
+const divide = (num1, num2) => num1/num2;
+divide(2000,100)
 
-const square = (square) => square * square;
+const square = (num3) => num3 * num3;
 
-
-const add = (num1, num2) => num1 + num2;
-
+const add = (num4, num5) => num4 + num5;
